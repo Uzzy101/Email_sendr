@@ -4,8 +4,8 @@ import random
 import smtplib
 
 
-my_email = 'sysavaneusman1@gmail.com'
-my_password = 'yfocttxjenpybigy'
+my_email = 'your_email'
+my_password = 'your_password'
 
 today = dt.datetime.now()
 
